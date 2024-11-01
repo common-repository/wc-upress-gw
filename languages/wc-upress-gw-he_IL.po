@@ -1,0 +1,229 @@
+# Blank WordPress Pot
+# Copyright 2014 ...
+# This file is distributed under the GNU General Public License v3 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: Blank WordPress Pot v1.0.0\n"
+"Report-Msgid-Bugs-To: Translator Name <translations@example.com>\n"
+"POT-Creation-Date: 2020-04-21 10:38+0300\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Your Team <translations@example.com>\n"
+"Language: he_IL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=4; plural=(n==1 ? 0 : n==2 ? 1 : n>10 && n%10==0 ? "
+"2 : 3);\n"
+"X-Textdomain-Support: yesX-Generator: Poedit 1.6.4\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;esc_html_e;esc_html_x:1,2c;esc_html__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_attr__;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;"
+"_x:1,2c;_n:1,2;_n_noop:1,2;__ngettext:1,2;__ngettext_noop:1,2;_c,_nc:4c,1,2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Generator: Poedit 2.3\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: node_modules\n"
+"X-Poedit-SearchPathExcluded-1: assets\n"
+"X-Poedit-SearchPathExcluded-2: *.js\n"
+"X-Poedit-SearchPathExcluded-3: .git\n"
+"X-Poedit-SearchPathExcluded-4: vendor\n"
+
+#: wc-upress-gw.php:28
+msgid "uPress Payment Gateway requires Woocommerce to be installed and active."
+msgstr ""
+"על מנת לסלוק באמצעות uPress Payment Gateway יש לוודא שווקומרס יהיה מותקן "
+"ופעיל."
+
+#: wc-upress-gw.php:60 wc-upress-gw.php:252
+msgid "uPress Payment Gateway"
+msgstr "uPress Payment Gateway"
+
+#: wc-upress-gw.php:62
+msgid "Secure credit card payments with MAX gateway."
+msgstr "תשלומי כרטיסי אשראי מאובטחים באמצעות מסוף הסליקה של MAX."
+
+#: wc-upress-gw.php:114
+msgid "Something went wrong while making MAX payment!"
+msgstr "התקבלה שגיאה בתהליך התשלום!"
+
+#: wc-upress-gw.php:242
+msgid "Enable/Disable"
+msgstr "הפעל/בטל"
+
+#: wc-upress-gw.php:243
+msgid "Enable Gateway"
+msgstr "הפעל מסוף סליקה"
+
+#: wc-upress-gw.php:249
+msgid "Title"
+msgstr "כותרת"
+
+#: wc-upress-gw.php:251
+msgid "This controls the title which the user sees during checkout."
+msgstr "שולט בכותרת שהמשתמש רואה במסך הקופה."
+
+#: wc-upress-gw.php:255
+msgid "Description"
+msgstr "תיאור"
+
+#: wc-upress-gw.php:257
+msgid "This controls the description which the user sees during checkout."
+msgstr "שולט בתיאור שהמשתמש רואה במסך הקופה."
+
+#: wc-upress-gw.php:259
+#, php-format
+msgid "Secure Credit Card Payment %s"
+msgstr "תשלום מאובטח בכרטיס אשראי %s"
+
+#: wc-upress-gw.php:262
+msgid "API Key / Password Signature"
+msgstr "קוד API / סיסמת API"
+
+#: wc-upress-gw.php:264
+msgid "This is the API Signature. You will got from MAX."
+msgstr "קוד ה- API שהתקבל מ- MAX."
+
+#: wc-upress-gw.php:268
+msgid "Terminal Number"
+msgstr "מספר מסוף"
+
+#: wc-upress-gw.php:270
+msgid "This is the your Term No. You will got from MAX."
+msgstr "מספר המסוף שהתקבל מ- MAX."
+
+#: wc-upress-gw.php:274
+msgid "Payment Installments"
+msgstr "מספר תשלומים"
+
+#: wc-upress-gw.php:281
+msgid "Delayed Payment"
+msgstr "חיוב דחוי"
+
+#: wc-upress-gw.php:285 wc-upress-gw.php:312
+msgid "No"
+msgstr "לא"
+
+#: wc-upress-gw.php:286 wc-upress-gw.php:313
+msgid "Yes"
+msgstr "כן"
+
+#: wc-upress-gw.php:292
+msgid "Template"
+msgstr "תבנית"
+
+#: wc-upress-gw.php:294
+#, php-format
+msgid ""
+"Templates shown at <a href=\"%1$s\" target=\"_blank\" rel=\"noopener nofollow"
+"\">%1$s</a>"
+msgstr ""
+"ניתן לראות תצוגה מקדימה של התבניות בקישור הבא <a href=\"%1$s\" target="
+"\"_blank\" rel=\"noopener nofollow\">%1$s</a>"
+
+#: wc-upress-gw.php:308
+msgid "Show Items"
+msgstr "הצג פריטים"
+
+#: wc-upress-gw.php:318
+msgid "Language"
+msgstr "שפה"
+
+#: wc-upress-gw.php:322
+msgid "Hebrew"
+msgstr "עברית"
+
+#: wc-upress-gw.php:323
+msgid "English"
+msgstr "אנגלית"
+
+#: wc-upress-gw.php:324
+msgid "Automatic"
+msgstr "אוטוטמי"
+
+#: wc-upress-gw.php:329
+msgid "Type"
+msgstr "סוג"
+
+#: wc-upress-gw.php:339
+msgid "Iframe Width"
+msgstr "רוחב iframe"
+
+#: wc-upress-gw.php:346
+msgid "Iframe Height"
+msgstr "גובה iframe"
+
+#: wc-upress-gw.php:364
+msgid "MAX Payment Gateway by uPress"
+msgstr "מסוף סליקה MAX מאת uPress"
+
+#: wc-upress-gw.php:365
+msgid ""
+"Accept all major credit cards directly on your WooCommerce site in a "
+"seamless and secure checkout environment with MAX."
+msgstr ""
+"קבל את כל כרטיסי האשראי העיקריים ישירות באתר WooCommerce שלך בסביבת מאובטחת "
+"באמצעות MAX."
+
+#: wc-upress-gw.php:395
+msgid "Join MAX Business"
+msgstr "להצטרפות אל MAX עסקים"
+
+#: wc-upress-gw.php:399
+msgid ""
+"After the registration process MAX will automatically open your payment "
+"terminal and all settings will auto-update* for your website."
+msgstr ""
+"לאחר תהליך ההרשמה אל MAX עסקים מסוף הסליקה שלך יפתח אוטומטית וכל ההגדרות "
+"יתעדכנו אוטומטית* באתר שלך."
+
+#: wc-upress-gw.php:402
+msgid "* Automatic settings update available for uPress customers only"
+msgstr "* עדכון הגדרות אוטומטי זמין ללקוחות uPress בלבד"
+
+#: wc-upress-gw.php:408
+msgid "Return URL for MAX: "
+msgstr "כתובת להחזרה של התשובה מ- MAX: "
+
+#: wc-upress-gw.php:424
+msgid "Gateway Disabled"
+msgstr "אמצעי התשלום מבוטל"
+
+#: wc-upress-gw.php:425
+msgid "uPress Payment Gateway does not support your store currency."
+msgstr "uPress Payment Gateway אינו תומך במטבע איתו החנות שלך עובדת."
+
+#: wc-upress-gw.php:511
+#, php-format
+msgid "MAX payment approved (ID: %s)"
+msgstr "התשלום התקבל בהצלחה (ID: %s)"
+
+#: wc-upress-gw.php:534
+msgid "Gateway error"
+msgstr "שגיאת אמצעי תשלום"
+
+#: wc-upress-gw.php:535
+msgid "Please try another payment module."
+msgstr "נסה להשתמש באמצעי תשלום אחר."
+
+#: wc-upress-gw.php:659
+msgid "uPress Payment Gateway Response:"
+msgstr "התקבלה תשובה לבקשת פתיחת מסוף הסליקה:"
+
+#: wc-upress-gw.php:687
+msgid "uPress Payment Gateway is not configured yet"
+msgstr "uPress Payment Gateway לא מוגדר עדיין"
+
+#: wc-upress-gw.php:690
+msgid "Register with MAX Business"
+msgstr "הרשם אל MAX עסקים"
+
+#: wc-upress-gw.php:692
+msgid "Configure uPress Payment Gateway"
+msgstr "הגדר את uPress Payment Gateway"
+
+#~ msgid "Register for a MAX Business Account"
+#~ msgstr "הרשם לחשבון MAX עסקים"
+
+#~ msgid "Register Now"
+#~ msgstr "הרשם עכשיו"
